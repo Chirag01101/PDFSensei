@@ -8,5 +8,4 @@ Developed a PDF-based question-answering chatbot using the Mistral 7B model and 
 
  LIVE DEMO :-https://huggingface.co/spaces/Chirag01/pdf-rag-mistral-7b
 
-
- 
+![Screenshot 2024-09-08 224112](https://github.com/user-attachments/assets/ac758f80-07c5-418a-be86-7837d13806f6)
